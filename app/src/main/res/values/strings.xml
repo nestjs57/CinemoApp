@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinemo</string>
+
+    <string name="view_more_label">View more</string>
+    <string name="movie_finder_title_label">Movie Finder</string>
+    <string name="my_favorite_title_label">My Favorite</string>
+    <string name="search_label">Search..</string>
+</resources>

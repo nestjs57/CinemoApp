@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021583969318",
+    "project_id": "cinemo-app",
+    "storage_bucket": "cinemo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021583969318:android:3547ab4a3e9163ef022ae7",
+        "android_client_info": {
+          "package_name": "com.arnoract.cinemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaZLv9hU4oDiPZ9ZZMFYX2PrLWOWaSeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
